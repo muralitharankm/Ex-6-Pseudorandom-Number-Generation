@@ -1,6 +1,6 @@
 ## Ex-6-Pseudorandom-Number-Generation
 ## AIM :
-To implement Pseudorandom Number Generation using Standard Library.
+To implement Pseudorandom Number Generation using Standard Library. 
 
 ## ALGORITHM :
 Step 1:
