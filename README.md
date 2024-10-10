@@ -53,4 +53,9 @@ int main() {
 }
 ``
 ## OUTPUT:
-![Uploading Screenshot 2024-10-10 092708.png…]()
+
+![Screenshot 2024-10-10 092708](https://github.com/user-attachments/assets/50489d2b-50dd-48ce-b269-3107d48197d6)
+
+## RESULT:
+Thus, the pseudorandom number generation was successfully implemented using the standard library functions srand() and rand().
+
